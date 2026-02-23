@@ -1,0 +1,3 @@
+1. I asked github copilot to generate an outline for this project, its response is in the code itself.
+2. For the titanic dataset, the initial generated plots were not meaningful because of the auto-selected columns, so I asked copilot if there was a way to select specific columns without affecting the generalizability of the function.
+3. I passed the generated plots back to github copilot and asked it to generate insights, again the insights can be found in the notebook.
